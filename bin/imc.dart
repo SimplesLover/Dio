@@ -1,5 +1,4 @@
 import 'package:imc/Pessoa.dart';
-import 'package:imc/imc.dart' as imc;
 import 'dart:io';
 
 void main(List<String> arguments) {
